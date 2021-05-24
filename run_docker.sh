@@ -1,4 +1,4 @@
-!/usr/bin/env bash
+#!/usr/bin/env bash
 
 # Build image and add tag
 docker build . --tag=ml-microservice
